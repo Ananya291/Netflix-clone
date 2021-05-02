@@ -1,0 +1,70 @@
+.Banner_main{
+    padding: 70px 250px;
+    text-align: center;
+}
+.netflix_img{
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+        width:100%;
+        height: 100%;
+}
+.Banner_head{
+    color: #fff;
+    /* padding: 0 300px; */
+}
+ .heading{
+   font-size: 50px;
+   font-weight: 600;
+   padding:  0 170px;
+   line-height: normal;
+}
+.subheading{
+    margin-top: -25px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.subheading_g{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.email{
+    
+   width: 480px;
+   height: 55px;
+   font-size: 25px;
+   font-weight: 450;
+   color: gray;
+   border: 1px solid black; 
+  
+}
+.btn{
+   align-items: center;
+   width: 250px; 
+   padding: 15.5px 0px;
+   /* height: 60px; */
+   font-size: 25px;
+   font-weight: 450;
+   color: #fff;
+   background-color: #ce1212;
+   border: 0.5px solid black;
+   cursor: pointer; 
+}    
+.btn:hover{
+    background-color:#e40017 ;
+}
+.motu_padoda{
+    display: flex;
+    align-items: center;
+}
+.motu_laponda{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lapondi{
+    margin-left:-60px ;
+    margin-top: 2px;
+}

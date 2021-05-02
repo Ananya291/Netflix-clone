@@ -1,0 +1,30 @@
+.Nav{
+    display: flex;
+    padding: 0 70px;
+    background-color: transparent;
+}
+
+/* left logo */
+.Netflix_logo{
+    flex: 50%;
+}
+.net_logo{
+    width: 180px;
+    cursor: pointer;
+}
+/* btn right */
+.Btn_left{
+    flex: 50%;
+}
+.signin_btn{
+    background-color: #ce1212;
+    border-radius: 5px;
+    margin-left: 500px;
+    border: 1px solid black;
+    margin-top: 30px;
+    width: 90px;
+    height: 40px;
+    cursor: pointer;
+    color:white;
+    font-size: 18px;
+}
